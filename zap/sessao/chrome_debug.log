@@ -1,0 +1,47 @@
+[7324:12104:0923/150805.227:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.139 (not a warning)
+[7324:12104:0923/150808.645:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[7324:12104:0923/150812.413:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7324:12104:0923/150817.419:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7324:12104:0923/150818.116:INFO:CONSOLE(140)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yP/r/1BZ8MhYlZb_.js?_nc_x=Ij3Wp8lg5Kz (140)
+[10780:5984:0923/150819.345:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(130,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[7324:12104:0923/150823.231:INFO:CONSOLE(343)] "WAWebLoggerWorker initialized", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150823.236:INFO:CONSOLE(343)] "[storage] start setSchemaVersions from fts worker interface", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150823.237:INFO:CONSOLE(343)] "[storage] set schema versions: [model-storage,159,fts-storage,8,jobs-storage,1,lru-media-storage-idb,2,offd-storage,4,qpl-storage,0,signal-storage,6,worker-storage,1,sw,2,wawc,14,wawc_db_enc,2]. is worker? true", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150835.599:INFO:CONSOLE(343)] "WAWebLoggerWorker initialized", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150835.601:INFO:CONSOLE(343)] "[storage] start setSchemaVersions from fts worker interface", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150835.601:INFO:CONSOLE(343)] "[storage] set schema versions: [model-storage,159,fts-storage,8,jobs-storage,1,lru-media-storage-idb,2,offd-storage,4,qpl-storage,0,signal-storage,6,worker-storage,1,sw,2,wawc,14,wawc_db_enc,2]. is worker? true", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150844.313:INFO:CONSOLE(140)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yP/r/1BZ8MhYlZb_.js?_nc_x=Ij3Wp8lg5Kz (140)
+[7324:12104:0923/150848.154:INFO:CONSOLE(343)] "FTS:Delegate: start indexer", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150848.154:INFO:CONSOLE(343)] "FTS:Delegate: start perform init", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150848.154:INFO:CONSOLE(343)] "FTS:Delegate: schema versions ready", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150848.154:INFO:CONSOLE(343)] "FTS:Delegate: before db initialization", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150848.156:INFO:CONSOLE(343)] "[storage] applying schema versions from [0 to 8] for the database: 'fts-storage'", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150848.937:INFO:CONSOLE(343)] "[storage] applying schema versions from [0 to 159] for the database: 'model-storage'", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150852.466:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7324:12104:0923/150855.964:INFO:CONSOLE(343)] "FTS:Delegate: after db initialization", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150855.970:INFO:CONSOLE(343)] "FTS:Manifest Writer: Set current version to ['3.1', '1']", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150855.970:INFO:CONSOLE(343)] "FTS:Delegate: Inited", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150855.972:INFO:CONSOLE(343)] "FTS:Delegate: Init indexing ops", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150855.988:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Starting new batch size : 1000", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150855.999:INFO:CONSOLE(343)] "Current message batch is from entry 0 of 1...", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150856.004:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Completed", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150856.004:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Starting new batch size : 1000", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150856.006:INFO:CONSOLE(343)] "Finished batch from entry 0 of 1. (Took 5.400000035762787 msec)", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150856.008:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Completed", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150858.073:INFO:CONSOLE(140)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yP/r/1BZ8MhYlZb_.js?_nc_x=Ij3Wp8lg5Kz (140)
+[7324:12104:0923/150905.159:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Starting new batch size : 1000", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.172:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Completed", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.279:INFO:CONSOLE(343)] "FTS:Purge Range Manager: Drain Queue iteration for rowIds 1000000002-1000000002, offset 0", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.281:INFO:CONSOLE(343)] "FTS: Purge Range Manager: Calling purge with keys", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.285:INFO:CONSOLE(343)] " 1000000002", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.296:INFO:CONSOLE(343)] "FTS: Purge Range Manager: Iteration took 14.5ms", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.355:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Starting new batch size : 1000", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.360:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Completed", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.399:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Starting new batch size : 1000", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.473:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Completed batch", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.474:INFO:CONSOLE(343)] "FTS:Indexer:indexQueuedBatch: Completed", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.528:INFO:CONSOLE(343)] "FTS:Purge Range Manager: Drain Queue iteration for rowIds 1000000002-1000000002, offset 200", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150905.542:INFO:CONSOLE(343)] "FTS: Purge Range Manager: Iteration took 5.300000011920929ms", source: https://static.whatsapp.net/rsrc.php/v3/yS/r/Rz1O0wm9Obi.js?_nc_x=Ij3Wp8lg5Kz (343)
+[7324:12104:0923/150907.495:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
